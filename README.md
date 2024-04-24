@@ -1,7 +1,7 @@
 # nextjs-strapi-demo
 Basic project in nextjs and strapi
 
-* NextJS Version used : 14.2.1
+* Next.js Version used : 14.2.1
   
 * Strapi version used : 4.22.1
 
